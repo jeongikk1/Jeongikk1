@@ -24,7 +24,3 @@ Unity 게임 개발과 C#, Lua 프로그래밍을 주로 다룹니다.
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=jeongikk1&show_icons=true&hide_border=false" alt="GitHub Stats" />
 </p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/jeongikk1&layout=compact&hide_border=false" alt="Top Langs" />
-</p>
